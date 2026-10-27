@@ -83,7 +83,7 @@ Cookie_Scraping_Security_Risk/
 - **形式**: プロフェッショナル文書形式
 
 ### Markdown形式 (.md)
-- **ファイル名**: `Cookie_Scraping_Proposal_JP.md`
+- **ファイル名**: `docs/Cookie_Scraping_Proposal_JP.md`
 - **用途**: GitHub表示、Web共有、バージョン管理
 - **形式**: テキストベース、GitHubでレンダリング
 
